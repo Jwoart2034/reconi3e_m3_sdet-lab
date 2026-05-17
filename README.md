@@ -1,5 +1,5 @@
 # Hey, I’m Reconize_me
-💻 Software QA Automation| SDET Engineer
+## 💻 Software QA Automation| SDET Engineer
 Focused on building real‑world automation frameworks, mastering test architecture, and leveling up as a modern SDET. I use my GitHub as a living lab to document my growth, experiments, and professional journey.
 
 # Tech Stack
@@ -33,33 +33,40 @@ Strengthen Java, Selenium, REST Assured, and CI/CD skills
 Explore test architecture patterns and automation best practices
 Track my continuous growth as an SDET
 
-# 📂 Repository Structure
-reconi3e_me_sdet-lab/
+<details>
+  <summary><strong>📂 Repository Structure (click to expand)</strong></summary>
+
+```text
+📁 reconi3e_me_sdet-lab/
 │
-├── ui-automation/
-│   ├── selenium-framework/
-│   ├── page-object-model/
-│   └── testng-suites/
+├── 🖥️ ui-automation/
+│   ├── 🧩 selenium-framework/
+│   ├── 🏗️ page-object-model/
+│   └── 🧪 testng-suites/
 │
-├── api-automation/
-│   ├── rest-assured-framework/
-│   ├── postman-collections/
-│   └── contract-testing/
+├── 🔌 api-automation/
+│   ├── ⚙️ rest-assured-framework/
+│   ├── 📬 postman-collections/
+│   └── 📜 contract-testing/
 │
-├── architecture-experiments/
-│   ├── design-patterns/
-│   ├── data-driven-testing/
-│   └── reporting/
+├── 🧠 architecture-experiments/
+│   ├── 🏛️ design-patterns/
+│   ├── 📊 data-driven-testing/
+│   └── 📝 reporting/
 │
-├── ci-cd/
-│   ├── github-actions/
-│   └── jenkins-pipelines/
+├── 🔄 ci-cd/
+│   ├── 🚀 github-actions/
+│   └── 🏭 jenkins-pipelines/
 │
-└── notes/
-    ├── course-notes/
-    ├── interview-prep/
-    └── daily-progress/
-    
+└── 🗒️ notes/
+    ├── 📚 course-notes/
+    ├── 🎤 interview-prep/
+    └── 📆 daily-progress/
+
+```
+
+</details>
+
 # 🧪 Current Focus Areas
 UI Automation Frameworks
 API Testing & Automation
