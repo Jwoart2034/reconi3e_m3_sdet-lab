@@ -2,6 +2,16 @@
 ## 💻 Software QA Automation| SDET Engineer
 Focused on building real‑world automation frameworks, mastering test architecture, and leveling up as a modern SDET. I use my GitHub as a living lab to document my growth, experiments, and professional journey.
 
+📌 Overview
+A dedicated SDET learning lab where I design automation frameworks, explore test architecture, practice API and UI testing, and document my growth through real‑world QA engineering projects. This repository serves as my long‑term space for building, breaking, testing, and refining practical automation skills.
+
+Goals of This Lab
+Build industry‑level automation frameworks from scratch
+Practice & Advance real‑world QA engineering through hands‑on projects
+Strengthen Java, Selenium, REST Assured, and CI/CD skills
+Explore test architecture patterns and automation best practices
+Track my continuous growth as an SDET
+
 # Tech Stack
 Languages: Java, JavaScript
 UI Automation: Selenium, Cypress
@@ -21,17 +31,6 @@ Improving CI/CD pipelines
 Advanced Selenium Framework Design
 REST Assured deep dive
 CI/CD automation
-
-# reconi3e_m3_sdet-lab
-📌 Overview
-A dedicated SDET learning lab where I design automation frameworks, explore test architecture, practice API and UI testing, and document my growth through real‑world QA engineering projects. This repository serves as my long‑term space for building, breaking, testing, and refining practical automation skills.
-
-Goals of This Lab
-Build industry‑level automation frameworks from scratch
-Practice real‑world QA engineering through hands‑on projects
-Strengthen Java, Selenium, REST Assured, and CI/CD skills
-Explore test architecture patterns and automation best practices
-Track my continuous growth as an SDET
 
 <details>
   <summary><strong>📂 Repository Structure (click to expand)</strong></summary>
